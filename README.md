@@ -13,10 +13,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Professional Data Scientist
 - 🔭 **I’m currently working on:** my PhD data and results
 - 👬 **I’m looking to:** collaborate with other content creators and developers
-- 🌱 **I’m currently learning:**Python for Software Engineering
-- 💪 **Strengths:** Stretegic Thinking, Hard Worker, Always Energetic.
+- 🌱 **I’m currently learning:** Python for Software Engineering
+- 💪 **Strengths:** strategic thinking, getting things done, always energetic
 - 🎯 **Area of Interest:** Data Science, Software Engineering
-- 💻 **Projects:** ([https://www.linkedin.com/in/michael-stamatis-85756116a/]))
+- 💻 **Projects:** https://www.linkedin.com/in/michael-stamatis-85756116a/
 
 <!--   my-skils -->
 
