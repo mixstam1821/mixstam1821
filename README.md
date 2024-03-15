@@ -31,6 +31,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/{mixstam1821}/count.svg)
 
 
+### 🤝 Connect with Me
+
+<p align="center">
+<a href="https://michael94stamatis.w3spaces.com/"><img src="https://img.shields.io/badge/-Shahrayar-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/michael-stamatis-85756116a/"><img src="https://img.shields.io/badge/-Muhammad%20Shahrayar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
+<a href="mailto:mixstam1453@gmail.com"><img src="https://img.shields.io/badge/-shahrayar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>  
+
+
 <!--
 **mixstam1821/mixstam1821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
