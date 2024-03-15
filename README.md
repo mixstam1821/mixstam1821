@@ -6,6 +6,8 @@
   <img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" alt="Your GIF Description" />
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{mixstam1821}/count.svg)
+
 
 <!--
 **mixstam1821/mixstam1821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
