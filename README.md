@@ -10,12 +10,12 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mixstam1821&show_icons=true&theme=radical) | [![Michael's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mixstam1821&langs_count=8&layout=compact&theme=radical)](https://github.com/mixstam1821/github-readme-stats) |
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Professional Data Scientist
-- 🔭 **I’m currently working on:** my PhD data and results
-- 👬 **I’m looking to:** collaborate with other content creators and developers
-- 🌱 **I’m currently learning:** Python for Software Engineering
-- 💪 **Strengths:** strategic thinking, getting things done, always energetic
-- 🎯 **Area of Interest:** Data Science, Software Engineering
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Software Developer Enthusiast
+- 🔭 **I’m currently working on:** development of interactive web applications on my PhD results
+- 👬 **I’m looking to:** collaborate with other developers and teams
+- 🌱 **I’m currently learning:** Python and Javascript for Software Engineering
+- 💪 **Strengths:** getting things done effectively, always energetic
+- 🎯 **Area of Interest:** Software Engineering, Data Science
 - 💻 **Projects:** https://www.linkedin.com/in/michael-stamatis-85756116a/
 
 <!--   my-skils -->
