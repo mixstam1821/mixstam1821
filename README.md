@@ -13,7 +13,7 @@
 - 🌱 **I’m currently learning:** Python and Javascript for Software Development
 - 💪 **Strengths:** getting things done effectively, analytical skills, problem solving
 - 🎯 **Area of Interest:** Data Science, Web apps
-- 💻 **Projects:** https://www.linkedin.com/in/michael-stamatis-85756116a/
+- 💻 **Projects:** https://mixstam.netlify.app/projects.html
 
 <!--   my-skils -->
 
