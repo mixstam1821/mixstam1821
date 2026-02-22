@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&width=600&lines=Hi%2C+I'm+Michael+Stamatis+%F0%9F%91%8B;Data+Engineer+%7C+AWS+%7C+PySpark+%7C+SQL;Building+pipelines+that+move+the+world's+data." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&width=600&lines=Hi%2C+I'm+Michael+Stamatis+%F0%9F%91%8B;Data+Engineer+%7C+AWS+%7C+PySpark+%7C+SQL;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -64,18 +64,3 @@ I focus on turning raw, messy data into clean, reliable, analytics-ready dataset
 
 ---
 
-## 📊 GitHub Stats
-
-| Stats | Languages |
-|---|---|
-| ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mixstam1821&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mixstam1821&langs_count=6&layout=compact&theme=tokyonight&hide_border=true) |
-
----
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mixstam1821/count.svg" alt="Visitor Count"/>
-</p>
-
-<p align="center"><i>"Good data engineering is invisible. Bad data engineering is everywhere."</i></p>
