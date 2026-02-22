@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** based in Greece, working remotely at **NIKI Digital Engineering** on automotive data pipelines for **BMW** — processing millions of sensor records daily using AWS and PySpark.
+I'm a **Data Engineer** based in Greece, working remotely at **NIKI Digital Engineering** on automotive data pipelines for **BMW** and **AUDI**— processing millions of sensor records daily using AWS and PySpark.
 
 My background combines **production data engineering** with **5 years of scientific research**, where I built ETL pipelines processing 20+ TB of satellite climate data during my PhD at the University of Ioannina.
 
-- 🏢 Currently: Data Engineer @ **NIKI Digital Engineering** (BMW project) — remote
+- 🏢 Currently: Data Engineer @ **NIKI Digital Engineering** (BMW and AUDI external partner) — remote
 - ☁️ Stack: **AWS Glue · Athena · S3 · PySpark · Python · SQL**
 - 🔬 Background: PhD researcher — large-scale satellite data pipelines (ERA5, NASA, EUMETSAT)
 - 📍 Location: Greece 
