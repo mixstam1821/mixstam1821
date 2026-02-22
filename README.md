@@ -1,52 +1,81 @@
-<h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff1957&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Michael.+Have+a+nice+Day!+%F0%9F%8C%9F" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&width=600&lines=Hi%2C+I'm+Michael+Stamatis+%F0%9F%91%8B;Data+Engineer+%7C+AWS+%7C+PySpark+%7C+SQL;Building+pipelines+that+move+the+world's+data." alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-stamatis-85756116a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Stamatis-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mixstam1453@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mixstam1453@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://mixstam.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-mixstam.netlify.app-3423A6?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-|     Michael's GitHub Stats                                                                                                                   | Languages                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mixstam1821&show_icons=true&theme=radical) | [![Michael's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mixstam1821&langs_count=8&layout=compact&theme=radical)](https://github.com/mixstam1821/github-readme-stats) |
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;Software Developer
-- 🔭 **I’m currently working on:** development of interactive web applications on my PhD results
-- 👬 **I’m looking to:** collaborate with other developers and teams
-- 🌱 **I’m currently learning:** Python and Javascript for Software Development
-- 💪 **Strengths:** getting things done effectively, analytical skills, problem solving
-- 🎯 **Area of Interest:** Data Science, Web apps
-- 💻 **Projects:** https://mixstam.netlify.app/projects.html
+## 👨‍💻 About Me
 
-<!--   my-skils -->
+I'm a **Data Engineer** based in Greece, currently working remotely as an external partner for **BMW** and **AUDI** via NIKI, building and maintaining production data pipelines on AWS.
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=white&color=%23FFCE5A) ![Fortran Badge](https://img.shields.io/badge/-Fortran-3776AB?style=flat&logo=Fortran&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Domain Knownledge**                           | ![Data Science Badge](https://img.shields.io/badge/-Data%20Science-01D277?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) ![Earth Science Badge](https://img.shields.io/badge/-Earth%20Science-FAB040?style=flat&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **CI / CD**                                     | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Databases**                                   | ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white)                                                                                                                                                                                                                                                                                             
-## Visitor Count
+I focus on turning raw, messy data into clean, reliable, analytics-ready datasets — using PySpark, SQL, and AWS services at scale.
 
-![Visitor Count](https://profile-counter.glitch.me/{mixstam1821}/count.svg)
+- 🏢 Currently: Data Engineer @ **BMW** and **AUDI** (via NIKI) — remote
+- ☁️ Stack: **AWS Glue · Athena · S3 · PySpark**
+- 🔧 Building: ETL pipelines, data quality checks, partitioned Parquet tables
+- 📍 Location: Greece 
 
+---
 
-### 🤝 Connect with Me
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white) |
+| **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
+| **Cloud (AWS)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| **Data Formats** | ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-217346?style=flat&logoColor=white) |
+| **CI/CD & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Currently Learning** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) |
+
+---
+
+## 📂 Featured Projects
+
+### 🔍 [data-quality-checker](https://github.com/mixstam1821/data-quality-checker)
+> PySpark tool that automatically profiles and validates any dataset before it enters a pipeline.
+
+- Detects **nulls, duplicates, outliers, schema mismatches**
+- Uses **Spark SQL** for column statistics
+- Outputs a **JSON quality report**
+- Maps directly to AWS Glue → S3 → Athena workflows
+
+---
+
+### ⚙️ [etl-pipeline](https://github.com/mixstam1821/etl-pipeline)
+> A clean, production-style ETL pipeline: Extract → Transform → Load using PySpark + SQL.
+
+- Cleans messy raw data (nulls, casing, invalid values)
+- Enriches with calculated columns
+- **Spark SQL aggregations** for analytics-ready output
+- Writes **partitioned Parquet** — same pattern as AWS S3/Athena
+
+---
+
+## 📊 GitHub Stats
+
+| Stats | Languages |
+|---|---|
+| ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mixstam1821&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mixstam1821&langs_count=6&layout=compact&theme=tokyonight&hide_border=true) |
+
+---
+
+---
 
 <p align="center">
-<a href="https://mixstam.netlify.app/"><img src="https://img.shields.io/badge/-Michael-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/michael-stamatis-85756116a/"><img src="https://img.shields.io/badge/-Michael%20Stamatis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
-<a href="mailto:mixstam1453@gmail.com"><img src="https://img.shields.io/badge/-Michael-D14836?style=flat&logo=Gmail&logoColor=white"/></a>  
+  <img src="https://profile-counter.glitch.me/mixstam1821/count.svg" alt="Visitor Count"/>
+</p>
 
-
-<!--
-**mixstam1821/mixstam1821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>"Good data engineering is invisible. Bad data engineering is everywhere."</i></p>
