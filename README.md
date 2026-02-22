@@ -18,14 +18,50 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** based in Greece, currently working remotely as an external partner for **BMW** and **AUDI** via NIKI, building and maintaining production data pipelines on AWS.
+I'm a **Data Engineer** based in Greece, working remotely at **NIKI Digital Engineering** on automotive data pipelines for **BMW** — processing millions of sensor records daily using AWS and PySpark.
 
-I focus on turning raw, messy data into clean, reliable, analytics-ready datasets — using PySpark, SQL, and AWS services at scale.
+My background combines **production data engineering** with **5 years of scientific research**, where I built ETL pipelines processing 20+ TB of satellite climate data during my PhD at the University of Ioannina.
 
-- 🏢 Currently: Data Engineer @ **BMW** and **AUDI** (via NIKI) — remote
-- ☁️ Stack: **AWS Glue · Athena · S3 · PySpark**
-- 🔧 Building: ETL pipelines, data quality checks, partitioned Parquet tables
+- 🏢 Currently: Data Engineer @ **NIKI Digital Engineering** (BMW project) — remote
+- ☁️ Stack: **AWS Glue · Athena · S3 · PySpark · Python · SQL**
+- 🔬 Background: PhD researcher — large-scale satellite data pipelines (ERA5, NASA, EUMETSAT)
 - 📍 Location: Greece 
+
+---
+
+## 💼 Experience
+
+### Data Engineer & Test Automation Developer
+**NIKI Digital Engineering** · Remote · *Jun 2024 – Present*
+
+**Data Engineering:**
+- Build production ETL pipelines for automotive data using **AWS Glue and PySpark**, processing millions of sensor records daily
+- Design and maintain data tables for analytics used in production environments
+- Develop **SQL transformations** and data quality validation frameworks for time-series vehicle data
+- Collaborate with stakeholders to optimize pipeline performance and define data schemas
+- **Tech:** Python, PySpark, SQL, AWS (Glue, S3, Athena), Docker, Git
+
+**Test Automation:**
+- Develop automated test frameworks for ECU validation using EXAM and Python
+- Hardware-in-the-loop (HIL) testing
+
+---
+
+### Scientific PhD Researcher
+**University of Ioannina** · Ioannina, Greece · *Oct 2020 – Sep 2025*
+
+- Built **CLARISC** — a cloud database integrating EUMETSAT and NASA satellite datasets, processing **20+ TB** of climate data
+- Engineered ETL pipelines for large-scale satellite and reanalysis datasets (ERA5, CERES, MERRA-2) using Python, xarray, Dask, and SQL
+- Developed **EarthSense** — an interactive web application to visualize research results
+- Performed statistical analysis, data validation, and quality control on multi-dimensional time-series datasets
+- Published **4 peer-reviewed papers** in high-impact journals (Atmospheric Research, Climatic Change)
+- **Tech:** Python (pandas, xarray, Dask, NumPy, SciPy), SQL, Flask, FastAPI, JavaScript, HPC, Linux, Docker, Git, Fortran
+
+**Key Projects:**
+- 🌍 EarthSense — Interactive web app for PhD climate research results
+- 🛰️ NATEX — Satellite data viewer built with Python, Satpy, and Bokeh
+- 🌐 Aether — Quick netCDF explorer
+- 📊 ERMES — ERA5 and CAMS reanalysis data explorer
 
 ---
 
@@ -34,10 +70,10 @@ I focus on turning raw, messy data into clean, reliable, analytics-ready dataset
 | Category | Tools |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white) |
-| **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
+| **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Dask](https://img.shields.io/badge/Dask-FDA061?style=flat&logoColor=white) |
 | **Cloud (AWS)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
-| **Data Formats** | ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-217346?style=flat&logoColor=white) |
-| **CI/CD & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Data Formats** | ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat&logoColor=white) ![NetCDF](https://img.shields.io/badge/NetCDF-0078D4?style=flat&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 | **Currently Learning** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) |
 
 ---
@@ -48,9 +84,9 @@ I focus on turning raw, messy data into clean, reliable, analytics-ready dataset
 > PySpark tool that automatically profiles and validates any dataset before it enters a pipeline.
 
 - Detects **nulls, duplicates, outliers, schema mismatches**
-- Uses **Spark SQL** for column statistics
-- Outputs a **JSON quality report**
-- Maps directly to AWS Glue → S3 → Athena workflows
+- Uses **Spark SQL** for column statistics and aggregations
+- Outputs a structured **JSON quality report**
+- Maps directly to AWS Glue → S3 → Athena production workflows
 
 ---
 
@@ -58,9 +94,8 @@ I focus on turning raw, messy data into clean, reliable, analytics-ready dataset
 > A clean, production-style ETL pipeline: Extract → Transform → Load using PySpark + SQL.
 
 - Cleans messy raw data (nulls, casing, invalid values)
-- Enriches with calculated columns
+- Enriches with calculated columns and business logic
 - **Spark SQL aggregations** for analytics-ready output
 - Writes **partitioned Parquet** — same pattern as AWS S3/Athena
 
 ---
-
